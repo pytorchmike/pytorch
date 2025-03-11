@@ -1,3 +1,5 @@
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/pytorch)
+
 This is a template project for PyTorch machine learning applications in [Codeanywhere](https://codeanywhere.com/).
 [Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/pytorch)
 
